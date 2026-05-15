@@ -28,3 +28,7 @@ The dataset includes company names, company email addresses, agency names, agenc
 - Scikit-learn
 - Matplotlib
 - Jupyter Notebook / Google Colab
+
+## Project Report
+
+The final project report is included in this repository as `Final_Report.pdf`.
